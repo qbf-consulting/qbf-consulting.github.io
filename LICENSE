@@ -1,0 +1,13 @@
+QBF Consulting Website — Licensing Map
+
+Copyright (c) 2026 QBF Consulting LLP and contributors
+
+This repository contains materials distributed under two licenses. The applicable license is determined by artifact type unless a file explicitly states otherwise.
+
+1. Website content and authored documentation — CC BY 4.0
+   Human-readable website copy, explanatory documentation, diagrams, and authored content are licensed under the Creative Commons Attribution 4.0 International License. See LICENSE-CONTENT.
+
+2. Website code and executable artifacts — Apache License 2.0
+   Source code, scripts, build automation, workflows, executable configuration, and other machine-executable artifacts are licensed under the Apache License, Version 2.0. See LICENSE-CODE.
+
+Third-party material remains subject to its respective license and attribution requirements.
